@@ -1,0 +1,27 @@
+{
+  "name": "titobot",
+  "version": "1.0.0",
+  "description": "bot for discord that determines what game to play based on collected responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregalantiu2/titobot.git"
+  },
+  "keywords": [
+    "tito",
+    "bot",
+    "discord"
+  ],
+  "author": "greg tiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregalantiu2/titobot/issues"
+  },
+  "homepage": "https://github.com/gregalantiu2/titobot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
